@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "issues": "http://github.com/tcdent/php-restclient/issues"
+        "issues": "http://github.com/ademirrocha/php-restclient/issues"
     }, 
     "require": {
         "php": ">=5.4.0", 
